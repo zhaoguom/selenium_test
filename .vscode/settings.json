@@ -1,0 +1,20 @@
+{
+    "python.pythonPath": "C:\\Users\\zhaoguo.ma\\.python3\\Scripts\\python.exe",
+    "python.linting.pylintPath": "C:\\Users\\zhaoguo.ma\\.python3\\Scripts\\pylint.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.testing.pytestArgs": [
+        "pytest"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./pytest",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.promptToConfigure": false
+}
